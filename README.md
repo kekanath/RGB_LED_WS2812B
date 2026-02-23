@@ -25,7 +25,7 @@ Command	Action
 S1–S5	Direct speed
 + / -	Speed adjust
 
-If you'd like next level:
+If you'd like next level: (the vibe you want.)
 
 🌌 Galaxy swirl cinematic
 
@@ -35,4 +35,4 @@ If you'd like next level:
 
 🎛 Web UI control (like your Fault Injector project)
 
-Tell me the vibe you want.
+
